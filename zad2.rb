@@ -1,7 +1,6 @@
 beer_num = 99
 word = "bottles"
 beer = ["one", "two", "three", "four", "five", "no more"]
-no_beer = "no more"
 puts "Insert loop numer: "
 loop_val = gets
 
